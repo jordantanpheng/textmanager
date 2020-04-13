@@ -1,0 +1,16 @@
+header {
+	height: 200px;
+}
+
+.col.col-sm-7 {
+	padding-left: 25px;
+}
+
+.button {
+	color: white;
+	background-color: #4caf50;
+}
+
+.highlight {
+	background-color: yellow;
+}
